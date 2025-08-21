@@ -2,7 +2,7 @@
 =========================
 
 The `@GzipResponse` annotation provides a declarative way to enable **response compression** in your application.  
-It can be applied at both **method** and **class** levels, offering fine-grained control over compression behavior.
+It can be applied on **method** level, offering fine-grained control over compression behavior.
 
 ---
 
