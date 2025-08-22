@@ -1,3 +1,5 @@
+[![Maven Central](https://img.shields.io/maven-central/v/com.example/gzipresponse.svg)](https://mvnrepository.com/artifact/io.github.panditaditya0/gzip-response)
+
 @GzipResponse Annotation
 =========================
 
