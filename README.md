@@ -17,6 +17,15 @@ It can be applied on **method** level, offering fine-grained control over compre
 - **Force mode** – Apply compression even if the client did not request it.
 
 ## Usage
+### Checkout updated dependency [MvnRepo](https://mvnrepository.com/artifact/io.github.panditaditya0/gzip-response)
+### Add Maven Dependency 
+```java
+    <dependency>
+        <groupId>io.github.panditaditya0</groupId>
+        <artifactId>gzip-response</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+```
 
 ### Method-Level Example
 
