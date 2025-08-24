@@ -1,10 +1,11 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/50408b34-4554-4161-b9b4-9d9556abd8fd" />
 
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.example/gzipresponse.svg)](https://mvnrepository.com/artifact/io.github.panditaditya0/gzip-response)
 
 @GzipResponse Annotation
 =========================
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/50408b34-4554-4161-b9b4-9d9556abd8fd" />
+
 
 The `@GzipResponse` annotation provides a declarative way to enable **response compression** in your application.  
 It can be applied on **method** level, offering fine-grained control over compression behavior.
